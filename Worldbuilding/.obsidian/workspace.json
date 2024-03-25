@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Lore.md",
+                "file": "Ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Lore.md",
+                "file": "Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Lore.md",
+                "file": "Ideas.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Lore.md"
+                "file": "Ideas.md"
               }
             }
           },
@@ -158,7 +158,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -180,13 +181,13 @@
   },
   "active": "e86d522b0a3ff72e",
   "lastOpenFiles": [
+    "World Lore.md",
     "Magic Systems.md",
     "Ideas.md",
     "Homebrew Regler.md",
     "Untitled.md",
     "Prologe.md",
     "Plot  lists.md",
-    "World Lore.md",
     "The Gods/Emmanuel - the god of decay.md",
     "The Gods/Paramenus - the god of Knowledge and the Arcane.md",
     "The Gods/Amed - the god of Balance.md",
