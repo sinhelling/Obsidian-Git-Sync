@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic Systems.md",
+                "file": "World Lore.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic Systems.md",
+                "file": "World Lore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magic Systems.md",
+                "file": "World Lore.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magic Systems.md"
+                "file": "World Lore.md"
               }
             }
           },
@@ -180,13 +180,14 @@
   },
   "active": "e86d522b0a3ff72e",
   "lastOpenFiles": [
+    "Words Of Inspiration.md",
+    "World Lore.md",
+    "Magic Systems.md",
     "Ideas.md",
     "Homebrew Regler.md",
-    "Magic Systems.md",
     "Untitled.md",
     "Prologe.md",
     "Plot  lists.md",
-    "World Lore.md",
     "The Gods/Emmanuel - the god of decay.md",
     "The Gods/Paramenus - the god of Knowledge and the Arcane.md",
     "The Gods/Amed - the god of Balance.md",
@@ -197,7 +198,6 @@
     "The Gods/Lael - the goddess of the moon.md",
     "The Gods/Silas - the god of the Sun.md",
     "The Gods/Isaiah - the god of destruction.md",
-    "Words Of Inspiration.md",
     "The Gods",
     "Research/Desperation.md",
     "Moods and Themes.md",

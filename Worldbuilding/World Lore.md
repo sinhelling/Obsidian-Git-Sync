@@ -38,6 +38,6 @@ At the end of this age the people had lost so much and blamed the gods for the w
 The people wanted independence from the gods and so ended up challenging them.
 This is when the Humans Killed [[Silas - the god of the Sun]]
 
-The age came to a stop when Amed finally intervened. he split the world in three parts or three planes.
+The age came to a stop when Amed finally intervened. he split the world in three parts or three planes. the left plane for creation and the right plane for destruction and locked both Enan and Isaiah into their respectable planes. the material plane now only holds the lesser gods but even they are partially locked away from our plane.
 ##### The Fourth age (The Current Age)
 
