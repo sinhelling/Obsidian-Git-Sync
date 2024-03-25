@@ -3,6 +3,7 @@
 Hei fra hoved Pc'en
 
 Hei tilbake fra laptoppen
+vent så det funker liksom nå?
 ###### six
 Something something
 ###### also Six
