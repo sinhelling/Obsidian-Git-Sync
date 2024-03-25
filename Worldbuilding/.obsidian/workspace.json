@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Magic Systems.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Magic Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Magic Systems.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Magic Systems.md"
               }
             }
           },
@@ -147,6 +147,14 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "d7085e9d9e1bc0b5",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
               "state": {}
             }
           }
@@ -165,35 +173,37 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-full-calendar:Open Full Calendar": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "e86d522b0a3ff72e",
   "lastOpenFiles": [
-    "The Gods/Amed - the god of Balance.md",
-    "The Gods/Isaiah - the god of destruction.md",
-    "The Gods/Emmanuel - the god of decay.md",
+    "Ideas.md",
+    "Homebrew Regler.md",
+    "Magic Systems.md",
     "Untitled.md",
+    "Prologe.md",
+    "Plot  lists.md",
     "World Lore.md",
+    "The Gods/Emmanuel - the god of decay.md",
     "The Gods/Paramenus - the god of Knowledge and the Arcane.md",
+    "The Gods/Amed - the god of Balance.md",
     "The Gods/Enan - the god of creation.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "The Gods/Micah - the goddess of emotion.md",
     "The Gods/Lael - the goddess of the moon.md",
     "The Gods/Silas - the god of the Sun.md",
-    "Homebrew Regler.md",
+    "The Gods/Isaiah - the god of destruction.md",
     "Words Of Inspiration.md",
-    "Plot  lists.md",
     "The Gods",
     "Research/Desperation.md",
     "Moods and Themes.md",
     "enan.md",
     "Factions/Searchers.md",
-    "Magic Systems.md",
     "Factions",
-    "Prologe.md",
-    "Ideas.md",
     "unplaced Locations/The  Gates of  Repentance.md",
     "Characters",
     "unplaced Locations",
