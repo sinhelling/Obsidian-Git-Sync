@@ -1,0 +1,18 @@
+#### Characteristics of Desperate people
+- Obsessive
+- Fearful
+- Hopeless
+- Exhausted
+- Pathetic
+- Begging
+- Insecure
+- Clinging
+- Demanding
+- Vulnerable
+- Agonized
+- Panic-stricken
+- Frenzied
+- Crying out
+- Pleading
+- Frantic
+- Depressed
