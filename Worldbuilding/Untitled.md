@@ -1,12 +1,5 @@
 # title one 
 
-Hei fra hoved Pc'en
-
-Hei tilbake fra laptoppen
-vent så det funker liksom nå?
-jupp :=)
-###### six
-Something something
 ###### also Six
 
 - list

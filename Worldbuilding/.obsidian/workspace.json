@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Gods/Paramenus - the god of Knowledge and the Arcane.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e86d522b0a3ff72e",
+            "id": "6f1f0c912a941ad1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideas.md",
+                "file": "Campaign Ouline.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 401.5
   },
   "right": {
     "id": "3296889b178c9767",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideas.md",
+                "file": "Campaign Ouline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ideas.md",
+                "file": "Campaign Ouline.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ideas.md"
+                "file": "Campaign Ouline.md"
               }
             }
           },
@@ -157,9 +157,17 @@
               "type": "smart-connections-view",
               "state": {}
             }
+          },
+          {
+            "id": "3731b8fa6f7ef093",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -173,39 +181,43 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e86d522b0a3ff72e",
+  "active": "6f1f0c912a941ad1",
   "lastOpenFiles": [
-    "World Lore.md",
-    "Magic Systems.md",
-    "Ideas.md",
-    "Homebrew Regler.md",
-    "Untitled.md",
-    "Prologe.md",
-    "Plot  lists.md",
-    "The Gods/Emmanuel - the god of decay.md",
-    "The Gods/Paramenus - the god of Knowledge and the Arcane.md",
-    "The Gods/Amed - the god of Balance.md",
     "The Gods/Enan - the god of creation.md",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
+    "unplaced Locations/The  Gates of  Repentance.md",
+    "The Chance.md",
+    "Magic Systems.md",
+    "Moods and Themes.md",
+    "Campaign Ouline.md",
+    "Untitled.md",
+    "World Lore.md",
+    "The Gods/Silas - the god of the Sun.md",
+    "The Trial.md",
     "The Gods/Micah - the goddess of emotion.md",
     "The Gods/Lael - the goddess of the moon.md",
-    "The Gods/Silas - the god of the Sun.md",
-    "The Gods/Isaiah - the god of destruction.md",
-    "Words Of Inspiration.md",
-    "The Gods",
+    "The Gods/Paramenus - the god of Knowledge and the Arcane.md",
     "Research/Desperation.md",
-    "Moods and Themes.md",
+    "The Gods/Amed - the god of Balance.md",
+    "The Gods/Isaiah - the god of destruction.md",
+    "The Gods/Emmanuel - the god of decay.md",
+    "Words Of Inspiration.md",
+    "Plot  lists.md",
+    "Prologe.md",
+    "Untitled.canvas",
+    "NPC's",
+    "Locations",
+    "Ideas.md",
+    "Homebrew Regler.md",
+    "Untitled 1.canvas",
+    "The Gods",
     "enan.md",
     "Factions/Searchers.md",
     "Factions",
-    "unplaced Locations/The  Gates of  Repentance.md",
     "Characters",
     "unplaced Locations",
     "Research",
