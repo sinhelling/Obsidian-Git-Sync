@@ -26,10 +26,10 @@ Micah also known as the mother of
 
 ### Timeline
 ##### The first age (The Age of Creation)
-During the first age the the world was still in the making. this is when [[Enan - the god of creation]] created [[Silas - the god of the Sun]], Lael, [[Paramenus - the god of Knowledge and the Arcane]] and Micah
+During the first age the the world was still in the making. this is when [[Enan - the god of creation]] created [[Silas - the god of the Sun]], [[Lael - the goddess of the moon]], [[Paramenus - the god of Knowledge and the Arcane]] and [[Micah - the goddess of emotion]]
 [[Silas - the god of the Sun]] created Light and warmth to the world
-Lael created Darkness and cold to the world
-Micah Created the Humans and other races in the world
+[[Lael - the goddess of the moon]] created Darkness and cold to the world
+[[Micah - the goddess of emotion]]Created the Humans and other races in the world
 ##### The Second age (The Age of Progression)
 The second age, also known as the age of progression is when [[Paramenus - the god of Knowledge and the Arcane]] gave the power of magic to the world. The World would flourish and prosper to the highest peaks ever reached by mankind.
 ##### The Third age (The Age of Regression)
@@ -38,6 +38,6 @@ At the end of this age the people had lost so much and blamed the gods for the w
 The people wanted independence from the gods and so ended up challenging them.
 This is when the Humans Killed [[Silas - the god of the Sun]]
 
-The age came to a stop when Amed finally intervened. he split the world in three parts or three planes. the left plane for creation and the right plane for destruction and locked both Enan and Isaiah into their respectable planes. the material plane now only holds the lesser gods but even they are partially locked away from our plane.
+The age came to a stop when [[Amed - the god of Balance]] finally intervened. he split the world in three parts or three planes. the left plane for creation and the right plane for destruction and locked both [[Enan - the god of creation]] and [[Isaiah - the god of destruction]] into their respectable planes. the material plane now only holds the lesser gods but even they are partially locked away from our plane.
 ##### The Fourth age (The Current Age)
 

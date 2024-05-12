@@ -13,26 +13,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Markdown Basics.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6f1f0c912a941ad1",
+            "id": "7103f51e4ddf3ffe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Ouline.md",
+                "file": "Templates/NPC template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44b2a56f069177e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign Planing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3bfe81a466641094",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign Planing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf1b607cd4a5d625",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign Planing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -98,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Ouline.md",
+                "file": "Campaign Planing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Ouline.md",
+                "file": "Campaign Planing.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Ouline.md"
+                "file": "Campaign Planing.md"
               }
             }
           },
@@ -165,9 +201,17 @@
               "type": "smart-connections-chat-view",
               "state": {}
             }
+          },
+          {
+            "id": "4461972244798815",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -183,44 +227,48 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "6f1f0c912a941ad1",
+  "active": "bf1b607cd4a5d625",
   "lastOpenFiles": [
-    "The Gods/Enan - the god of creation.md",
-    "unplaced Locations/The  Gates of  Repentance.md",
-    "The Chance.md",
     "Magic Systems.md",
-    "Moods and Themes.md",
+    "Markdown Basics.md",
+    "Homebrew Regler.md",
+    "Ideas.md",
+    "Campaign Planing.md",
     "Campaign Ouline.md",
-    "Untitled.md",
+    "Hidden/Lustria.png",
+    "Map.md",
+    "Hidden",
     "World Lore.md",
-    "The Gods/Silas - the god of the Sun.md",
-    "The Trial.md",
-    "The Gods/Micah - the goddess of emotion.md",
-    "The Gods/Lael - the goddess of the moon.md",
-    "The Gods/Paramenus - the god of Knowledge and the Arcane.md",
-    "Research/Desperation.md",
-    "The Gods/Amed - the god of Balance.md",
-    "The Gods/Isaiah - the god of destruction.md",
-    "The Gods/Emmanuel - the god of decay.md",
+    "Saftey Tools.md",
     "Words Of Inspiration.md",
-    "Plot  lists.md",
-    "Prologe.md",
+    "The Trial.md",
+    "The Chance.md",
+    "Research/Desperation.md",
+    "Moods and Themes.md",
+    "Templates/NPC template.md",
+    "Factions/Searchers.md",
+    "Templates",
+    "The Gods/Lael - the goddess of the moon.md",
+    "The Gods/Silas - the god of the Sun.md",
+    "unplaced Locations/The  Gates of  Repentance.md",
+    "The Gods/Paramenus - the god of Knowledge and the Arcane.md",
+    "The Gods/Micah - the goddess of emotion.md",
+    "The Gods/Isaiah - the god of destruction.md",
+    "The Gods/Enan - the god of creation.md",
+    "The Gods/Emmanuel - the god of decay.md",
+    "The Gods/Amed - the god of Balance.md",
     "Untitled.canvas",
     "NPC's",
     "Locations",
-    "Ideas.md",
-    "Homebrew Regler.md",
     "Untitled 1.canvas",
     "The Gods",
-    "enan.md",
-    "Factions/Searchers.md",
     "Factions",
     "Characters",
     "unplaced Locations",
-    "Research",
-    "Welcome.md"
+    "Research"
   ]
 }
