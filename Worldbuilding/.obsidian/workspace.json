@@ -4,177 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7189daaab9571636",
+        "id": "2f718c64129244ee",
         "type": "tabs",
         "children": [
           {
-            "id": "9a7dc1f1565d6650",
+            "id": "bb19b11d013c26ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown Basics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7103f51e4ddf3ffe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/NPC template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "44b2a56f069177e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign Planing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3bfe81a466641094",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign Planing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf1b607cd4a5d625",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign Planing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a8c879b85eae080c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign Planing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e7b30448cbb6f46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapters/Chapter 2 (lv.3 - lv.5).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "064d5cc6a2461980",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign Planing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4dceda6dec737917",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign Planing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45c52cd189a68792",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign Planing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea999b631554d1fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapters/Chapter 1 (lv.1 - lv.2).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b792c4935849fa8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapters/Chapter 1 (lv.1 - lv.2).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c5054cc1bc93bbe",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
-              }
-            }
-          },
-          {
-            "id": "a512d63bbb17c07e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Gods/Enan - the god of creation.md",
+                "file": "Towns/Silverscar/Static NPC's/The Dawnsender Family/Henry Dawnsender.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 13
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -240,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Gods/Enan - the god of creation.md",
+                "file": "Towns/Silverscar/Static NPC's/The Dawnsender Family/Henry Dawnsender.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Gods/Enan - the god of creation.md",
+                "file": "Towns/Silverscar/Static NPC's/The Dawnsender Family/Henry Dawnsender.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -280,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Gods/Enan - the god of creation.md"
+                "file": "Towns/Silverscar/Static NPC's/The Dawnsender Family/Henry Dawnsender.md"
               }
             }
           },
@@ -309,7 +154,7 @@
             }
           },
           {
-            "id": "4461972244798815",
+            "id": "3b571282c55ca5e4",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -317,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -337,45 +182,46 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "a512d63bbb17c07e",
+  "active": "92bf7eb10608ca5b",
   "lastOpenFiles": [
-    "World Lore.md",
-    "The Gods/Enan - the god of creation.md",
-    "Homebrew Regler.md",
-    "Ideas.md",
-    "Magic Systems.md",
-    "Moods and Themes.md",
-    "Markdown Basics.md",
-    "Campaign Planing.md",
-    "Kaldian Brightmorrow (Kal)/Backstory - Points.md",
-    "Kaldian Brightmorrow (Kal)",
-    "NPC's/Jasper Conroy (Main Villain).md",
-    "NPC's",
-    "Chapters/Chapter 1 (lv.1 - lv.2).md",
+    "Towns/Silverscar/Static NPC's/The Dawnsender Family/Markus Dawnsender.md",
+    "Towns/Silverscar/Static NPC's/The Dawnsender Family/Laural Dawnsender.md",
+    "Towns/Silverscar/Static NPC's/Augustus Brightmorrow.md",
     "The 7 Artifacts of Sin.md",
-    "Chapters/Chapter 3 (lv.6 - lv.8).md",
-    "Chapters/Chapter 4 (lv.9 - lv.10).md",
-    "Chapters/Chapter 2 (lv.3 - lv.5).md",
-    "Chapters/Chapter 5 (lv.11 - lv.12).md",
+    "Chapters/Chapter 1 (lv.1 - lv.2).md",
     "Chapters/Chapter 6 (lv.12).md",
-    "Chapters",
-    "The Gods/Emmanuel - the god of decay.md",
-    "The Gods/Amed - the god of Balance.md",
-    "The Gods/Isaiah - the god of destruction.md",
-    "The Gods/Micah - the goddess of emotion.md",
-    "The Gods/Lael - the goddess of the moon.md",
-    "The Gods/Paramenus - the god of Knowledge and the Arcane.md",
-    "The Gods/Silas - the god of the Sun.md",
-    "Campaign Ouline.md",
-    "Hidden/Lustria.png",
-    "Hidden",
-    "Templates",
-    "Untitled.canvas",
-    "NPC's",
-    "Locations",
+    "Chapters/Chapter 5 (lv.11 - lv.12).md",
+    "Chapters/Chapter 4 (lv.9 - lv.10).md",
+    "Chapters/Chapter 3 (lv.6 - lv.8).md",
+    "Chapters/Chapter 2 (lv.3 - lv.5).md",
+    "Session Plans/Session 1.md",
+    "Party/philip Camorr/Philip Backstory - Points.md",
+    "Party/Kaldian Brightmorrow (Kal)/Kaldain Backstory - Points.md",
+    "Towns/Silverscar/Static NPC's/Fallreach Family/Madelyn Fallreach.md",
     "Untitled 1.canvas",
-    "The Gods",
-    "Factions",
-    "Characters"
+    "2024-05-29.md",
+    "Untitled.canvas",
+    "Towns/Silverscar/Silverscar Town Council.md",
+    "Towns/Silverscar/Static NPC's/James Camorr.md",
+    "Towns/Silverscar/Town Info.md",
+    "Towns/Silverscar/Static NPC's/Maryson Family/Jenny Maryson.md",
+    "Towns/Silverscar/Static NPC's/Maryson Family",
+    "Towns/Silverscar/Static NPC's/Fallreach Family",
+    "Towns/Silverscar/Static NPC's/The Dawnsender Family/Henry Dawnsender.md",
+    "Towns/Silverscar/Static NPC's/Fallreach Family/Tray Fallreach.md",
+    "Towns/Silverscar/Static NPC's/Maryson Family/Don Maryson.md",
+    "Towns/Silverscar/Static NPC's/The Dawnsender Family",
+    "World Lore.md",
+    "Campaign Planing.md",
+    "Session Plans",
+    "Party",
+    "Markdown Basics.md",
+    "Party/philip Camorr",
+    "Tray Fallreach",
+    "Towns/Silverscar/Static NPC's/Town Council",
+    "Towns/Silverscar/Buildings",
+    "Towns/Silverscar/Active Npc's",
+    "The Gods/Enan - the god of creation.md",
+    "Hidden/Lustria.png"
   ]
 }
