@@ -12,4 +12,4 @@ The village of silver scar
 two families have one of the 7. one is given to a player one is stolen.
 * Two families have one of the seven artifacts of sin believing them two only be two linked items and the magic of them is a Family Secret. 
 * one is given to a player and fits to their backstory
-* The other will be stolen by [[Jasper Conroy (Main Villain)]] who didn't know the other was there.
+* The other will be stolen by [[Jasper Conroy]] who didn't know the other was there.

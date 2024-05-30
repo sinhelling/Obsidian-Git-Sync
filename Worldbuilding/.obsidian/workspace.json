@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Towns/Silverscar/Static NPC's/The Dawnsender Family/Henry Dawnsender.md",
+                "file": "Session Plans/Session 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Towns/Silverscar/Static NPC's/The Dawnsender Family/Henry Dawnsender.md",
+                "file": "Session Plans/Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Towns/Silverscar/Static NPC's/The Dawnsender Family/Henry Dawnsender.md",
+                "file": "Session Plans/Session 1.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Towns/Silverscar/Static NPC's/The Dawnsender Family/Henry Dawnsender.md"
+                "file": "Session Plans/Session 1.md"
               }
             }
           },
@@ -182,46 +182,46 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "92bf7eb10608ca5b",
+  "active": "bb19b11d013c26ad",
   "lastOpenFiles": [
-    "Towns/Silverscar/Static NPC's/The Dawnsender Family/Markus Dawnsender.md",
+    "Markdown Basics.md",
+    "Homebrew Regler.md",
+    "Markdown  Basics.md",
+    "Session Plans/Session 1.md",
+    "NPC's/Jasper Conroy.md",
+    "Towns/Silverscar/Static NPC's/James Camorr.md",
+    "Chapters/Chapter 1 (lv.1 - lv.2).md",
+    "Towns/Silverscar/Static NPC's/The Dawnsender Family/Henry Dawnsender.md",
+    "Party/philip Camorr/Philip Backstory - Points.md",
+    "Factions/The Watchers.md",
     "Towns/Silverscar/Static NPC's/The Dawnsender Family/Laural Dawnsender.md",
+    "Factions/Searchers.md",
+    "Templates/NPC.md",
+    "Towns/Silverscar/Static NPC's/The Dawnsender Family/Markus Dawnsender.md",
+    "Towns/Silverscar/Static NPC's/Maryson Family/Jenny Maryson.md",
+    "Towns/Silverscar/Static NPC's/Maryson Family/Don Maryson.md",
+    "Towns/Silverscar/Static NPC's/Fallreach Family/Tray Fallreach.md",
+    "Towns/Silverscar/Static NPC's/Fallreach Family/Madelyn Fallreach.md",
     "Towns/Silverscar/Static NPC's/Augustus Brightmorrow.md",
     "The 7 Artifacts of Sin.md",
-    "Chapters/Chapter 1 (lv.1 - lv.2).md",
     "Chapters/Chapter 6 (lv.12).md",
     "Chapters/Chapter 5 (lv.11 - lv.12).md",
     "Chapters/Chapter 4 (lv.9 - lv.10).md",
     "Chapters/Chapter 3 (lv.6 - lv.8).md",
     "Chapters/Chapter 2 (lv.3 - lv.5).md",
-    "Session Plans/Session 1.md",
-    "Party/philip Camorr/Philip Backstory - Points.md",
-    "Party/Kaldian Brightmorrow (Kal)/Kaldain Backstory - Points.md",
-    "Towns/Silverscar/Static NPC's/Fallreach Family/Madelyn Fallreach.md",
+    "Party/Kaldian Brightmorrow (Kal)/Kaldain Brightmorrow.md",
     "Untitled 1.canvas",
-    "2024-05-29.md",
     "Untitled.canvas",
-    "Towns/Silverscar/Silverscar Town Council.md",
-    "Towns/Silverscar/Static NPC's/James Camorr.md",
-    "Towns/Silverscar/Town Info.md",
-    "Towns/Silverscar/Static NPC's/Maryson Family/Jenny Maryson.md",
     "Towns/Silverscar/Static NPC's/Maryson Family",
     "Towns/Silverscar/Static NPC's/Fallreach Family",
-    "Towns/Silverscar/Static NPC's/The Dawnsender Family/Henry Dawnsender.md",
-    "Towns/Silverscar/Static NPC's/Fallreach Family/Tray Fallreach.md",
-    "Towns/Silverscar/Static NPC's/Maryson Family/Don Maryson.md",
     "Towns/Silverscar/Static NPC's/The Dawnsender Family",
-    "World Lore.md",
-    "Campaign Planing.md",
     "Session Plans",
     "Party",
-    "Markdown Basics.md",
     "Party/philip Camorr",
     "Tray Fallreach",
     "Towns/Silverscar/Static NPC's/Town Council",
     "Towns/Silverscar/Buildings",
     "Towns/Silverscar/Active Npc's",
-    "The Gods/Enan - the god of creation.md",
     "Hidden/Lustria.png"
   ]
 }
